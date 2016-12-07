@@ -7,7 +7,7 @@
 Plugin Name: Local Open Sans
 Plugin URI: http://wordpress.org/plugins/local-open-sans/
 Description: Replace Open Sans with a local copy to speed up admin testing and development.
-Author: ThemeBoy
+Author: Brian Miyaji
 Version: 1.0
 Author URI: http://themeboy.com/
 */
