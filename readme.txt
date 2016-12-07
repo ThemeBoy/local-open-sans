@@ -1,5 +1,5 @@
 === Local Open Sans ===
-Contributors: Brian Miyaji
+Contributors: brianmiyaji
 Tags: open sans, admin, speed, google, fonts, development, dashboard, local
 Requires at least: 3.0
 Tested up to: 3.9.1
